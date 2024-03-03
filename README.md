@@ -6,7 +6,7 @@ can understand their customers and grow more sales in 2023.
 
 # Questions to work on :- 
 
-Que 1)  Compare the sales and orders using single chart
+Que 1)  Compare the sales and orders using single chart \n
 Que 2)  Which month got the highest sales and orders?
 Que 3)  Who purchased more- men or women in 2022?
 Que 4)  What are different order status in 2022?
